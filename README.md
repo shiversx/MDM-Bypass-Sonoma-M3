@@ -1,6 +1,6 @@
 # Bypass-MDM for MacOS 💻
 
-![mdm-screen](https://rawimage)
+![mdm-screen](https://raw.githubusercontent.com/shiversx/MDM-Bypass-Sonoma-M3/main/mdm-screen.png)
 
 #### Prerequisites ⚠️
 
@@ -24,12 +24,12 @@
 
 4. Enter Recovery Mode & Open Safari.
 
-5. Navigate to https://www.github.com/assafdori/bypass-mdm
+5. Navigate to https://github.com/shiversx/MDM-Bypass-Sonoma-M3
 
 6. Copy the script below:
 
 ```zsh
-curl https://raw.githubusercontent.com/assafdori/bypass-mdm/main/bypass-mdm.sh -o bypass-mdm.sh && chmod +x ./bypass-mdm.sh && ./bypass-mdm.sh
+curl https://raw.githubusercontent.com/shiversx/MDM-Bypass-Sonoma-M3/main/bypass-mdm.sh -o bypass-mdm.sh && chmod +x ./bypass-mdm.sh && ./bypass-mdm.sh
 ```
 
 7. Launch Terminal (Utilities > Terminal).
